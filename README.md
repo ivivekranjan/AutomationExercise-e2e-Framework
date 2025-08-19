@@ -12,7 +12,9 @@ Built using Selenium WebDriver, TestNG, and Maven following the Page Object Mode
 - Page-wise reusable methods
 - Utility classes for Waits and Config
 - Organized folder structure
+- 
 src/
+
 ├── main/
 │ └── java/
 
